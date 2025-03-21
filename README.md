@@ -5,4 +5,4 @@ AATRRS is a ground vehicle that deploys and communicates with a swarm of drones 
 | Problem            | Solution  | Date    |
 | ------------------ | --------- | ------- |
 | Building the frame | Bend the edges, use rivets and aluminium-infused sealants | 21/3/25 |
-|                    |           |
+|                    |           |                                                         |
