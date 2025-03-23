@@ -6,3 +6,7 @@ AATRRS is a ground vehicle that deploys and communicates with a swarm of drones 
 | ------------------ | --------- | ------- |
 | Building the frame | Bend the edges, use rivets and aluminium-infused sealants | 21/3/25 |
 |                    |           |                                                         |
+## Upgrade Ideas
+| Upgrade Idea | Date |
+| ------------ | ---- |
+| Fixed wing drone launched by magnetic rail launcher | 22/3/25 |
