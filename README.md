@@ -10,3 +10,5 @@ AATRRS is a ground vehicle that deploys and communicates with a swarm of drones 
 | Upgrade Idea | Date |
 | ------------ | ---- |
 | Fixed wing drone launched by magnetic rail launcher | 22/3/25 |
+| IR beacon for drones to land | 08/04/25 |
+| Brightly coloured landing pad for computer vision | 08/04/25 |
