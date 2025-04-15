@@ -18,6 +18,11 @@ AATRRS (Autonomous All Terrain Rescue and Reconnaissance System)  is a ground ve
 | Use double reinforced cardboard to prototype the ground vehicle | 11/4/25 |
 
 ## Milestones and achievements
-| Achievement | Date |
+| Achievement | Date | 
 | ----------- | ---- |
 | First drone prototype 3d printed | 15/4/25 |
+
+## 📸 Milestones Gallery
+### 🛠️ First Drone Prototype (15/4/25)
+![Drone Prototype](Assets/images/drone_prototype.png)
+*First successful 3D print of the drone frame. Frame includes embedded IR sensors and ultrasonic sensor mounts.*
