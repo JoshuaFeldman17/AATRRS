@@ -4,7 +4,8 @@ AATRRS (Autonomous All Terrain Rescue and Reconnaissance System)  is a ground ve
 ## Problems
 | Problem            | Solution  | Date    |
 | ------------------ | --------- | ------- |
-| Building the body of the ground vehicle | Bend the edges, use rivets and aluminium-infused sealants | 21/3/25 |
+| Building the body of the ground vehicle | Bend the edges, use rivets and aluminium-infused sealants | 21/3/25 
+| 3D printer bed adhesion was not good | N/A | 07/05/25
 ## Upgrade Ideas
 | Upgrade Idea | Date |
 | ------------ | ---- |
